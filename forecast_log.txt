@@ -1,0 +1,18 @@
+2025-01-22 22:52:37,188 - INFO - Forecast complete for product 1. RMSE: 142.49922729516373
+2025-01-22 22:52:41,490 - INFO - Forecast complete for product 2. RMSE: 129.67954348980066
+2025-01-22 22:52:45,850 - INFO - Forecast complete for product 3. RMSE: 77.5536613624834
+2025-01-22 22:52:50,655 - INFO - Forecast complete for product 4. RMSE: 99.40744063814098
+2025-01-22 22:52:55,963 - INFO - Forecast complete for product 5. RMSE: 89.80871578392697
+2025-01-22 22:53:00,738 - INFO - Forecast complete for product 6. RMSE: 0.0026853742047904454
+2025-01-22 22:53:05,520 - INFO - Forecast complete for product 7. RMSE: 0.0036393285864183165
+2025-01-22 22:53:05,522 - WARNING - Product 8: No sales data available for forecasting.
+2025-01-23 19:43:48,738 - INFO - Forecast complete for product 1. RMSE: 144.3656155221828
+2025-01-23 19:43:53,326 - INFO - Forecast complete for product 2. RMSE: 129.13570568278726
+2025-01-23 19:43:58,563 - INFO - Forecast complete for product 3. RMSE: 76.47120808085242
+2025-01-23 19:44:03,751 - INFO - Forecast complete for product 4. RMSE: 96.91969012802859
+2025-01-23 19:44:08,462 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000000459E6660> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-01-23 19:44:08,618 - INFO - Forecast complete for product 5. RMSE: 93.10319620557586
+2025-01-23 19:44:13,855 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000000004A0FFA60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-01-23 19:44:13,889 - INFO - Forecast complete for product 6. RMSE: 0.0046116253210892605
+2025-01-23 19:44:20,169 - INFO - Forecast complete for product 7. RMSE: 0.0007158745617247231
+2025-01-23 19:44:20,170 - WARNING - Product 8: No sales data available for forecasting.

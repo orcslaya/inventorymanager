@@ -1,0 +1,40 @@
+event_type,product_id,product_name,quantity,timestamp
+Update,1,Augusta,55,2025-01-10 22:15:18.859806
+Update,1,Augusta,55,2025-01-10 22:15:28.442583
+Sale,1,Card Reader,65,2025-01-10 22:15:49.791036
+Sale,1,Card Reader,65,2025-01-10 22:15:53.974462
+Sale,1,Card Reader,13,2025-01-10 22:16:08.348886
+Sale,1,Card Reader,12,2025-01-10 22:17:31.727876
+Update,1,Augusta,600,2025-01-10 22:17:41.629826
+Add,4,Ethernet Cable,88,2025-01-10 22:22:37.478086
+Add,5,RJ50 Cable,65,2025-01-10 22:28:19
+Update,1,Augusta,13,2025-01-10 23:51:36
+Sale,1,Card Reader,13,2025-01-10 23:51:57
+Update,1,Rare,14,2025-01-14 19:54:42
+Sale,5,RJ50 Cable,15,2025-01-14 20:59:56
+Sale,4,Ethernet Cable,1,2025-01-14 22:14:54
+Update,1,1,1,2025-01-16 20:30:15
+Sale,1,Card Reader,1,2025-01-16 20:30:19
+Update,1,1,1,2025-01-16 21:38:12
+Sale,1,Card Reader,1,2025-01-16 21:38:15
+Update,1,1,1,2025-01-16 22:30:37
+Sale,1,Card Reader,1,2025-01-16 22:30:42
+Update,1,1,1,2025-01-17 23:09:52
+Sale,2,BT Dongle,2,2025-01-17 23:09:56
+Update,5,3,1,2025-01-18 00:17:00
+Sale,3,Verifone,2,2025-01-18 00:17:05
+Add,6,Test,55,2025-01-21 22:13:32
+Sale,6,Test,13,2025-01-21 22:15:37
+Sale,6,Test,10,2025-01-21 22:19:21
+Sale,4,Ethernet Cable,4,2025-01-21 22:21:00
+Sale,6,Test,1,2025-01-21 22:21:07
+Sale,6,Test,1,2025-01-21 22:21:20
+Sale,1,Card Reader,1,2025-01-21 22:22:51
+Sale,1,Card Reader,1,2025-01-21 22:23:05
+Sale,1,Card Reader,1,2025-01-21 22:26:04
+Sale,6,Test,3,2025-01-22 21:09:01
+Add,7,Mouse,15,2025-01-22 21:25:54
+Sale,7,Mouse,1,2025-01-22 21:28:50
+Add,8,Keyboard,50,2025-01-22 21:30:10
+Update,1,1,14,2025-01-22 22:19:05
+Sale,1,Card Reader,13,2025-01-22 22:19:15
